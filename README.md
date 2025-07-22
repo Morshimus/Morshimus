@@ -22,7 +22,7 @@
 - 💼 I'm currently working on: **👴Creating concept of Runners as a Code (RaC)**
 - 🌱 I'm currently learning: **🧔 Migration modules to OpenTofu form Terraform including wrappers**
 - 💬 Ask me about: **👾 Terrafrom, Go, Python, Ruby, Bash\Shell, powershell, Ansible, K8s**
-- ⚡ Fun fact: **🎢 KISS and then DRY, and at least try.. **
+- ⚡ Fun fact: **🎢 KISS and then DRY, and at least try..**
 
  **<h3 align="left">Support Me</h3>**
 
