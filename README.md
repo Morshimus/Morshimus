@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="front.gif" alt="👋 Hi, my name is Daniel">
-</p>
-
-![Profile views](https://komarev.com/ghpvc/?username=Morshimus&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/Morshimus?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Morshimus?label=Stars&style=social)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/Morshimus?label=Sponsors&style=flat&color=EA4AAA)
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -16,6 +7,17 @@
     </summary>
   </ul>
 </div>
+
+![Profile views](https://komarev.com/ghpvc/?username=Morshimus&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/Morshimus?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Morshimus?label=Stars&style=social)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/Morshimus?label=Sponsors&style=flat&color=EA4AAA)
+
+<p align="center">
+  <img src="front.gif" alt="👋 Hi, my name is Daniel">
+</p>
+
+
 
 **<h3 align="center">Connect with me:</h3>**
 <p align="center"><a href="https://github.com/Morshimus" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://t.me/DanielD_ru" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/DalavDee" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/daniel-dalavurak-9857b2105" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
