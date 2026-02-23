@@ -25,20 +25,11 @@
 - 💬 Ask me about: **👾 Terraform, Go, Python, Ruby, Bash\Shell, PowerShell, Ansible, K8s**
 - ⚡ Fun fact: **🎢 KISS and then DRY, and at least try...**
 
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Skills:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,ruby,bash,powershell,dotnet,lua" />
-  </a>
-</p>
-
-
-<h3 align="left">Declarative Languages:</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,ansible" />
+    <img src="https://skillicons.dev/icons?i=go,py,fastapi,flask,django,ruby,linux,debian,redhat,arch,bash,windows,powershell,dotnet,lua,terraform,ansible,aws,azure,gcp,docker,kubernetes,git,gitlab,jenkins,github,githubactions,grafana,prometheus,neovim,vim,nginx,elasticsearch,kafka,rabbitmq,postgres,dynamodb,redis,obsidian,html,css,postman,graphql,md,vscode"/>
   </a>
 </p>
 <p align="center">
@@ -49,17 +40,8 @@
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
   <img src="https://img.shields.io/badge/Rego-7D9199?style=for-the-badge&logo=openpolicyagent&logoColor=white" alt="Rego"/>
   <img src="https://img.shields.io/badge/Crossplane-FF6600?style=for-the-badge&logo=crossplane&logoColor=white" alt="Crossplane"/>
-</p>
-
-<h3 align="left">Cloud Providers:</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-  </a>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Yandex_Cloud-5282FF?style=for-the-badge&logo=yandexcloud&logoColor=white" alt="Yandex Cloud"/>
 </p>
 
-<h3 align="left">Container Orchestrators:</h3>
+
+
