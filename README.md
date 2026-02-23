@@ -1,27 +1,15 @@
-<p align="center">
-  <img src="front.gif" alt="👋 Hi, my name is Daniel">
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="front.gif">
+    <source media="(prefers-color-scheme: light)" srcset="front.gif">
+    <img src="front.gif" alt="👋 Hi, my name is Daniel" style="background-color: #0d1117;">
+  </picture>
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=Morshimus&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/Morshimus?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Morshimus?label=Stars&style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/Morshimus?label=Sponsors&style=flat&color=EA4AAA)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morshimus&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morshimus&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morshimus&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Morshimus&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
