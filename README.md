@@ -37,7 +37,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,ansible,helmcart" />
+    <img src="https://skillicons.dev/icons?i=terraform,ansible" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black" alt="OpenTofu"/>
+  <img src="https://img.shields.io/badge/Terragrunt-4B275F?style=for-the-badge&logo=terragrunt&logoColor=white" alt="Terragrunt"/>
+  <img src="https://img.shields.io/badge/Terratest-5C4EE5?style=for-the-badge&logo=go&logoColor=white" alt="Terratest"/>
+  <img src="https://img.shields.io/badge/Atlantis-3F51B5?style=for-the-badge&logo=atlantis&logoColor=white" alt="Atlantis"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/Rego-7D9199?style=for-the-badge&logo=openpolicyagent&logoColor=white" alt="Rego"/>
+</p>
