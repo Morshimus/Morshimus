@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/Atlantis-3F51B5?style=for-the-badge&logo=atlantis&logoColor=white" alt="Atlantis"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
   <img src="https://img.shields.io/badge/Rego-7D9199?style=for-the-badge&logo=openpolicyagent&logoColor=white" alt="Rego"/>
+  <img src="https://img.shields.io/badge/Crossplane-FF6600?style=for-the-badge&logo=crossplane&logoColor=white" alt="Crossplane"/>
 </p>
 
 <h3 align="left">Cloud Providers:</h3>
@@ -60,3 +61,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Yandex_Cloud-5282FF?style=for-the-badge&logo=yandexcloud&logoColor=white" alt="Yandex Cloud"/>
 </p>
+
+<h3 align="left">Container Orchestrators:</h3>
