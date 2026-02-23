@@ -33,6 +33,7 @@
   </a>
 </p>
 
+
 <h3 align="left">Declarative Languages:</h3>
 
 <p align="center">
@@ -48,3 +49,12 @@
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
   <img src="https://img.shields.io/badge/Rego-7D9199?style=for-the-badge&logo=openpolicyagent&logoColor=white" alt="Rego"/>
 </p>
+
+<h3 align="left">Cloud Providers:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,ruby,bash,powershell,dotnet,lua" />
+  </a>
+</p>
+
