@@ -57,3 +57,6 @@
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
   </a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Yandex_Cloud-5282FF?style=for-the-badge&logo=yandexcloud&logoColor=white" alt="Yandex Cloud"/>
+</p>
