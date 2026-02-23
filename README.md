@@ -56,4 +56,10 @@
   <img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto"/>
   <img src="https://img.shields.io/badge/Check_Point-E80074?style=for-the-badge&logo=checkpoint&logoColor=white" alt="Check Point"/>
   <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
+  <img src="https://img.shields.io/badge/Valkey-FF6600?style=for-the-badge&logo=redis&logoColor=white" alt="Valkey"/>
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch"/>
+  <img src="https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white" alt="Ceph"/>
+  <img src="https://img.shields.io/badge/HPE-01A982?style=for-the-badge&logo=hpe&logoColor=white" alt="HPE"/>
+  <img src="https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="Dell"/>
+  <img src="https://img.shields.io/badge/TCL-ED1C24?style=for-the-badge&logo=tcl&logoColor=white" alt="TCL"/>
 </p>
