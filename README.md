@@ -1,4 +1,6 @@
-![👋 Hi, my name is Daniel](front.gif)
+<p align="center">
+  <img src="front.gif" alt="👋 Hi, my name is Daniel">
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Morshimus&label=Profile%20views&color=0e75b6&style=flat)
 
