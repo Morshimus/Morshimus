@@ -25,7 +25,7 @@
 - 💬 Ask me about: **👾 Terraform, Go, Python, Ruby, Bash\Shell, PowerShell, Ansible, K8s**
 - ⚡ Fun fact: **🎢 KISS and then DRY, and at least try...**
 
-<h3 align="center">Programming Languages:</h3>
+<h3 align="left">Programming Languages:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h3 align="center">Declarative Languages:</h3>
+<h3 align="left">Declarative Languages:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
