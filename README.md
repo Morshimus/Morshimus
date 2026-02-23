@@ -1,11 +1,8 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="front.gif">
-    <source media="(prefers-color-scheme: light)" srcset="front.gif">
-    <img src="front.gif" alt="👋 Hi, my name is Daniel" style="background-color: #0d1117;">
-  </picture>
-</div>
+<p align="center">
+  <img src="front.gif" alt="👋 Hi, my name is Daniel">
+</p>
 
+![Profile views](https://komarev.com/ghpvc/?username=Morshimus&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/Morshimus?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Morshimus?label=Stars&style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/Morshimus?label=Sponsors&style=flat&color=EA4AAA)
