@@ -51,4 +51,9 @@
   <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
   <img src="https://img.shields.io/badge/MCP-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"/>
+  <img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto"/>
+  <img src="https://img.shields.io/badge/Check_Point-E80074?style=for-the-badge&logo=checkpoint&logoColor=white" alt="Check Point"/>
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
 </p>
