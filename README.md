@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img scrce="https://skillicons.dev/icons?i=go,py,ruby,bash,powershell,dotnet,lua" />
+    <img src="https://skillicons.dev/icons?i=go,py,ruby,bash,powershell,dotnet,lua" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img scrce="https://skillicons.dev/icons?i=terraform,ansible,helm" />
+    <img src="https://skillicons.dev/icons?i=terraform,ansible,helmcart" />
   </a>
 </p>
 
