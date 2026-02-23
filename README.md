@@ -24,3 +24,18 @@
 - 💼 I'm currently working on: **👴Creating concept of Runners as Code (RaC)**
 - 💬 Ask me about: **👾 Terraform, Go, Python, Ruby, Bash\Shell, PowerShell, Ansible, K8s**
 - ⚡ Fun fact: **🎢 KISS and then DRY, and at least try...**
+
+<h3 align="center">Programming Languages:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img scrce="https://skillicons.dev/icons?i=go,py,ruby,bash,powershell,dotnet,lua" />
+  </a>
+</p>
+
+<h3 align="center">Declarative Languages:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img scrce="https://skillicons.dev/icons?i=terraform,ansible,helm" />
+  </a>
+</p>
+
