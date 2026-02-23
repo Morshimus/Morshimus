@@ -41,7 +41,14 @@
   <img src="https://img.shields.io/badge/Rego-7D9199?style=for-the-badge&logo=openpolicyagent&logoColor=white" alt="Rego"/>
   <img src="https://img.shields.io/badge/Crossplane-FF6600?style=for-the-badge&logo=crossplane&logoColor=white" alt="Crossplane"/>
   <img src="https://img.shields.io/badge/Yandex_Cloud-5282FF?style=for-the-badge&logo=yandexcloud&logoColor=white" alt="Yandex Cloud"/>
+  <img src="https://img.shields.io/badge/Kiro-000000?style=for-the-badge&logo=amazon&logoColor=white" alt="Kiro"/>
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white" alt="uv"/>
+  <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" alt="Poetry"/>
+  <img src="https://img.shields.io/badge/Hypothesis-BD1C2B?style=for-the-badge&logo=python&logoColor=white" alt="Hypothesis"/>
+  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Testcontainers"/>
+  <img src="https://img.shields.io/badge/LocalStack-4D29A3?style=for-the-badge&logo=localstack&logoColor=white" alt="LocalStack"/>
+  <img src="https://img.shields.io/badge/YDB-FFCC00?style=for-the-badge&logo=yandex&logoColor=black" alt="YDB"/>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/MCP-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
 </p>
-
-
-
